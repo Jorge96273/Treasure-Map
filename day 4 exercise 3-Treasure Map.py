@@ -43,13 +43,20 @@ if output == 0:
     print("Computer Wins!")
   elif computer_choice == 2:
     print("Human Wins!")
+  else:
+    print("What is going on bruh")
 if output == 1:
   if computer_choice == 0:
     print("Human Wins!")
   elif computer_choice == 2:
     print("Computer Wins!")
+  else:
+    print("What is going on bruh")
 if output == 2:
   if computer_choice == 0:
     print("Computer Wins!")
   elif computer_choice == 1:
     print("Human Wins")
+  else:
+    print("What is going on bruh")
+    
